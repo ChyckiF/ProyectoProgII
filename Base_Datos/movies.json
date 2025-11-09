@@ -1,0 +1,2074 @@
+{
+  "peliculas": [
+    {
+      "titulo": "Inception",
+      "anio": 2010,
+      "director": "Christopher Nolan",
+      "genero": ["Ciencia ficción", "Acción"],
+      "duracion_minutos": 148,
+      "calificacion": 8.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
+    },
+    {
+      "titulo": "The Godfather",
+      "anio": 1972,
+      "director": "Francis Ford Coppola",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 175,
+      "calificacion": 9.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Tf8vXykYhzHdT0BtsYTp570JGQ.jpg"
+    },
+    {
+      "titulo": "The Dark Knight",
+      "anio": 2008,
+      "director": "Christopher Nolan",
+      "genero": ["Acción", "Crimen", "Drama"],
+      "duracion_minutos": 152,
+      "calificacion": 9.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pKKvCaL1TPTVtbI6EeliyND3api.jpg"
+    },
+    {
+      "titulo": "Pulp Fiction",
+      "anio": 1994,
+      "director": "Quentin Tarantino",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 154,
+      "calificacion": 8.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+    },
+    {
+      "titulo": "Forrest Gump",
+      "anio": 1994,
+      "director": "Robert Zemeckis",
+      "genero": ["Drama", "Romance"],
+      "duracion_minutos": 142,
+      "calificacion": 8.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+    },
+    {
+      "titulo": "The Matrix",
+      "anio": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "genero": ["Ciencia ficción", "Acción"],
+      "duracion_minutos": 136,
+      "calificacion": 8.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p96dm7sCMn4VYAStA6siNz30G1r.jpg"
+    },
+    {
+      "titulo": "Fight Club",
+      "anio": 1999,
+      "director": "David Fincher",
+      "genero": ["Drama"],
+      "duracion_minutos": 139,
+      "calificacion": 8.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+    },
+    {
+      "titulo": "Interstellar",
+      "anio": 2014,
+      "director": "Christopher Nolan",
+      "genero": ["Ciencia ficción", "Aventura", "Drama"],
+      "duracion_minutos": 169,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    },
+    {
+      "titulo": "The Shawshank Redemption",
+      "anio": 1994,
+      "director": "Frank Darabont",
+      "genero": ["Drama"],
+      "duracion_minutos": 142,
+      "calificacion": 9.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+    },
+    {
+      "titulo": "Parasite",
+      "anio": 2019,
+      "director": "Bong Joon-ho",
+      "genero": ["Drama", "Thriller"],
+      "duracion_minutos": 132,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+    },
+    {
+      "titulo": "Gladiator",
+      "anio": 2000,
+      "director": "Ridley Scott",
+      "genero": ["Acción", "Drama", "Histórico"],
+      "duracion_minutos": 155,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+    },
+    {
+      "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+      "anio": 2001,
+      "director": "Peter Jackson",
+      "genero": ["Fantasía", "Aventura"],
+      "duracion_minutos": 178,
+      "calificacion": 8.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+    },
+    {
+      "titulo": "The Lion King",
+      "anio": 1994,
+      "director": "Roger Allers, Rob Minkoff",
+      "genero": ["Animación", "Aventura", "Drama"],
+      "duracion_minutos": 88,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+    },
+    {
+      "titulo": "Jurassic Park",
+      "anio": 1993,
+      "director": "Steven Spielberg",
+      "genero": ["Ciencia ficción", "Aventura"],
+      "duracion_minutos": 127,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjTU1Bgh3KJu4aatZil3sofR2zC.jpg"
+    },
+    {
+      "titulo": "Titanic",
+      "anio": 1997,
+      "director": "James Cameron",
+      "genero": ["Romance", "Drama"],
+      "duracion_minutos": 195,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+    },
+    {
+      "titulo": "Star Wars: Episode IV - A New Hope",
+      "anio": 1977,
+      "director": "George Lucas",
+      "genero": ["Ciencia ficción", "Aventura"],
+      "duracion_minutos": 121,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+    },
+    {
+      "titulo": "Back to the Future",
+      "anio": 1985,
+      "director": "Robert Zemeckis",
+      "genero": ["Aventura", "Comedia", "Ciencia ficción"],
+      "duracion_minutos": 116,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
+    },
+    {
+      "titulo": "Saving Private Ryan",
+      "anio": 1998,
+      "director": "Steven Spielberg",
+      "genero": ["Guerra", "Drama"],
+      "duracion_minutos": 169,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg"
+    },
+    {
+      "titulo": "The Prestige",
+      "anio": 2006,
+      "director": "Christopher Nolan",
+      "genero": ["Drama", "Misterio", "Ciencia ficción"],
+      "duracion_minutos": 130,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ZOzyhoW08neG27DVySMCcq2emd.jpg"
+    },
+    {
+      "titulo": "Whiplash",
+      "anio": 2014,
+      "director": "Damien Chazelle",
+      "genero": ["Drama", "Música"],
+      "duracion_minutos": 106,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+    },
+    {
+      "titulo": "The Avengers",
+      "anio": 2012,
+      "director": "Joss Whedon",
+      "genero": ["Acción", "Ciencia ficción", "Aventura"],
+      "duracion_minutos": 143,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+    },
+    {
+      "titulo": "Avengers: Endgame",
+      "anio": 2019,
+      "director": "Anthony Russo, Joe Russo",
+      "genero": ["Acción", "Ciencia ficción", "Aventura"],
+      "duracion_minutos": 181,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+    },
+    {
+      "titulo": "Spirited Away",
+      "anio": 2001,
+      "director": "Hayao Miyazaki",
+      "genero": ["Animación", "Fantasía", "Aventura"],
+      "duracion_minutos": 125,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+    },
+    {
+      "titulo": "Goodfellas",
+      "anio": 1990,
+      "director": "Martin Scorsese",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 146,
+      "calificacion": 8.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg"
+    },
+    {
+      "titulo": "The Silence of the Lambs",
+      "anio": 1991,
+      "director": "Jonathan Demme",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 118,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg"
+    },
+    {
+      "titulo": "Schindler's List",
+      "anio": 1993,
+      "director": "Steven Spielberg",
+      "genero": ["Drama", "Historia"],
+      "duracion_minutos": 195,
+      "calificacion": 8.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+    },
+    {
+      "titulo": "Casablanca",
+      "anio": 1943,
+      "director": "Michael Curtiz",
+      "genero": ["Drama", "Romance"],
+      "duracion_minutos": 102,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg"
+    },
+    {
+      "titulo": "The Departed",
+      "anio": 2006,
+      "director": "Martin Scorsese",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 151,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nT97ifVT2J1yMQmeq20Qblg61T.jpg"
+    },
+    {
+      "titulo": "Django Unchained",
+      "anio": 2012,
+      "director": "Quentin Tarantino",
+      "genero": ["Drama", "Western"],
+      "duracion_minutos": 165,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
+    },
+    {
+      "titulo": "Mad Max: Fury Road",
+      "anio": 2015,
+      "director": "George Miller",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 120,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hA2ple9q4qnwxp3hKVNhroipsir.jpg"
+    },
+    {
+      "titulo": "The Green Mile",
+      "anio": 1999,
+      "director": "Frank Darabont",
+      "genero": ["Drama", "Fantasía"],
+      "duracion_minutos": 189,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg"
+    },
+    {
+      "titulo": "Se7en",
+      "anio": 1995,
+      "director": "David Fincher",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 127,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg"
+    },
+    {
+      "titulo": "The Usual Suspects",
+      "anio": 1995,
+      "director": "Bryan Singer",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 106,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg"
+    },
+    {
+      "titulo": "Léon: The Professional",
+      "anio": 1994,
+      "director": "Luc Besson",
+      "genero": ["Acción", "Crimen", "Drama"],
+      "duracion_minutos": 110,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg"
+    },
+    {
+      "titulo": "American History X",
+      "anio": 1998,
+      "director": "Tony Kaye",
+      "genero": ["Drama"],
+      "duracion_minutos": 119,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg"
+    },
+    {
+      "titulo": "The Intouchables",
+      "anio": 2011,
+      "director": "Olivier Nakache, Éric Toledano",
+      "genero": ["Comedia", "Drama"],
+      "duracion_minutos": 112,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg"
+    },
+    {
+      "titulo": "Gladiator",
+      "anio": 2000,
+      "director": "Ridley Scott",
+      "genero": ["Acción", "Drama", "Histórico"],
+      "duracion_minutos": 155,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+    },
+    {
+      "titulo": "The Pianist",
+      "anio": 2002,
+      "director": "Roman Polanski",
+      "genero": ["Drama", "Guerra"],
+      "duracion_minutos": 150,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg"
+    },
+    {
+      "titulo": "The Departed",
+      "anio": 2006,
+      "director": "Martin Scorsese",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 151,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nT97ifVT2J1yMQmeq20Qblg61T.jpg"
+    },
+    {
+      "titulo": "Whiplash",
+      "anio": 2014,
+      "director": "Damien Chazelle",
+      "genero": ["Drama", "Música"],
+      "duracion_minutos": 106,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+    },
+    {
+      "titulo": "The Lives of Others",
+      "anio": 2006,
+      "director": "Florian Henckel von Donnersmarck",
+      "genero": ["Drama", "Thriller"],
+      "duracion_minutos": 137,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cVUDMnskSc01rdbyH0tLATTJUdP.jpg"
+    },
+    {
+      "titulo": "Oldboy",
+      "anio": 2003,
+      "director": "Park Chan-wook",
+      "genero": ["Acción", "Drama", "Misterio"],
+      "duracion_minutos": 120,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
+    },
+    {
+      "titulo": "Grave of the Fireflies",
+      "anio": 1988,
+      "director": "Isao Takahata",
+      "genero": ["Animación", "Drama", "Guerra"],
+      "duracion_minutos": 89,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg"
+    },
+    {
+      "titulo": "Princess Mononoke",
+      "anio": 1997,
+      "director": "Hayao Miyazaki",
+      "genero": ["Animación", "Aventura", "Fantasía"],
+      "duracion_minutos": 134,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cMYCDADoLKLbB83g4WnJegaZimC.jpg"
+    },
+    {
+      "titulo": "Once Upon a Time in the West",
+      "anio": 1968,
+      "director": "Sergio Leone",
+      "genero": ["Western"],
+      "duracion_minutos": 166,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qbYgqOczabWNn2XKwgMtVrntD6P.jpg"
+    },
+    {
+      "titulo": "Psycho",
+      "anio": 1960,
+      "director": "Alfred Hitchcock",
+      "genero": ["Horror", "Misterio", "Thriller"],
+      "duracion_minutos": 109,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg"
+    },
+    {
+      "titulo": "Rear Window",
+      "anio": 1954,
+      "director": "Alfred Hitchcock",
+      "genero": ["Misterio", "Thriller"],
+      "duracion_minutos": 112,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ILVF0eJxHMddjxeQhswFtpMtqx.jpg"
+    },
+    {
+      "titulo": "City of God",
+      "anio": 2002,
+      "director": "Fernando Meirelles, Kátia Lund",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 130,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg"
+    },
+    {
+      "titulo": "It's a Wonderful Life",
+      "anio": 1946,
+      "director": "Frank Capra",
+      "genero": ["Drama", "Familia", "Fantasía"],
+      "duracion_minutos": 130,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
+    },
+    {
+      "titulo": "The Great Dictator",
+      "anio": 1940,
+      "director": "Charlie Chaplin",
+      "genero": ["Comedia", "Drama", "Guerra"],
+      "duracion_minutos": 125,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhMXB8GTdswYMCL9nepDZymJCOr.jpg"
+    },
+    {
+      "titulo": "Sunset Boulevard",
+      "anio": 1950,
+      "director": "Billy Wilder",
+      "genero": ["Drama", "Film-Noir"],
+      "duracion_minutos": 110,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oOZIN0sbRNLKQC4RRCQnmAx1PlV.jpg"
+    },
+    {
+      "titulo": "Modern Times",
+      "anio": 1936,
+      "director": "Charlie Chaplin",
+      "genero": ["Comedia", "Drama"],
+      "duracion_minutos": 87,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg"
+    },
+    {
+      "titulo": "Cinema Paradiso",
+      "anio": 1988,
+      "director": "Giuseppe Tornatore",
+      "genero": ["Drama", "Romance"],
+      "duracion_minutos": 124,
+      "calificacion": 8.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg"
+    },
+    {
+      "titulo": "The Dark Knight Rises",
+      "anio": 2012,
+      "director": "Christopher Nolan",
+      "genero": ["Acción", "Drama"],
+      "duracion_minutos": 164,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8JCu1wi83pirpHEbVpmpfowDolX.jpg"
+    },
+    {
+      "titulo": "Avengers: Infinity War",
+      "anio": 2018,
+      "director": "Anthony Russo, Joe Russo",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 149,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    },
+    {
+      "titulo": "Spider-Man: Into the Spider-Verse",
+      "anio": 2018,
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "genero": ["Animación", "Acción", "Aventura"],
+      "duracion_minutos": 117,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    },
+    {
+      "titulo": "Joker",
+      "anio": 2019,
+      "director": "Todd Phillips",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 122,
+      "calificacion": 8.4,
+      "portada": "https://es.web.img3.acsta.net/c_310_420/pictures/19/09/17/17/03/5442885.jpg"
+    },
+    {
+      "titulo": "1917",
+      "anio": 2019,
+      "director": "Sam Mendes",
+      "genero": ["Drama", "Guerra"],
+      "duracion_minutos": 119,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg"
+    },
+    {
+      "titulo": "Coco",
+      "anio": 2017,
+      "director": "Lee Unkrich",
+      "genero": ["Animación", "Aventura", "Familia"],
+      "duracion_minutos": 105,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
+    },
+    {
+      "titulo": "Dune",
+      "anio": 2021,
+      "director": "Denis Villeneuve",
+      "genero": ["Ciencia ficción", "Aventura", "Drama"],
+      "duracion_minutos": 155,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+    },
+    {
+      "titulo": "The Grand Budapest Hotel",
+      "anio": 2014,
+      "director": "Wes Anderson",
+      "genero": ["Comedia", "Drama"],
+      "duracion_minutos": 99,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg"
+    },
+    {
+      "titulo": "La La Land",
+      "anio": 2016,
+      "director": "Damien Chazelle",
+      "genero": ["Comedia", "Drama", "Música"],
+      "duracion_minutos": 128,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+    },
+    {
+      "titulo": "Blade Runner 2049",
+      "anio": 2017,
+      "director": "Denis Villeneuve",
+      "genero": ["Ciencia ficción", "Drama", "Thriller"],
+      "duracion_minutos": 164,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    },
+    {
+      "titulo": "Three Billboards Outside Ebbing, Missouri",
+      "anio": 2017,
+      "director": "Martin McDonagh",
+      "genero": ["Comedia", "Crimen", "Drama"],
+      "duracion_minutos": 115,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGMM9ZObmPUFrGqcbFMVyv8L1lU.jpg"
+    },
+    {
+      "titulo": "Logan",
+      "anio": 2017,
+      "director": "James Mangold",
+      "genero": ["Acción", "Drama", "Ciencia ficción"],
+      "duracion_minutos": 137,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+    },
+    {
+      "titulo": "Dunkirk",
+      "anio": 2017,
+      "director": "Christopher Nolan",
+      "genero": ["Acción", "Drama", "Guerra"],
+      "duracion_minutos": 106,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg"
+    },
+    {
+      "titulo": "Hacksaw Ridge",
+      "anio": 2016,
+      "director": "Mel Gibson",
+      "genero": ["Drama", "Historia", "Guerra"],
+      "duracion_minutos": 139,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg"
+    },
+    {
+      "titulo": "Room",
+      "anio": 2015,
+      "director": "Lenny Abrahamson",
+      "genero": ["Drama", "Thriller"],
+      "duracion_minutos": 118,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg"
+    },
+    {
+      "titulo": "The Revenant",
+      "anio": 2015,
+      "director": "Alejandro G. Iñárritu",
+      "genero": ["Aventura", "Drama"],
+      "duracion_minutos": 156,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ji3ecJphATlVgWNY0B0RVXZizdf.jpg"
+    },
+    {
+      "titulo": "Spotlight",
+      "anio": 2015,
+      "director": "Tom McCarthy",
+      "genero": ["Drama", "Historia"],
+      "duracion_minutos": 129,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8DPGG400FgaFWaqcv11n8mRd2NG.jpg"
+    },
+    {
+      "titulo": "Inside Out",
+      "anio": 2015,
+      "director": "Pete Docter",
+      "genero": ["Animación", "Aventura", "Comedia"],
+      "duracion_minutos": 95,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+    },
+    {
+      "titulo": "Birdman",
+      "anio": 2014,
+      "director": "Alejandro G. Iñárritu",
+      "genero": ["Comedia", "Drama"],
+      "duracion_minutos": 119,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg"
+    },
+    {
+      "titulo": "Boyhood",
+      "anio": 2014,
+      "director": "Richard Linklater",
+      "genero": ["Drama"],
+      "duracion_minutos": 165,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg"
+    },
+    {
+      "titulo": "Gone Girl",
+      "anio": 2014,
+      "director": "David Fincher",
+      "genero": ["Drama", "Misterio", "Thriller"],
+      "duracion_minutos": 149,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+    },
+    {
+      "titulo": "Nightcrawler",
+      "anio": 2014,
+      "director": "Dan Gilroy",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 117,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
+    },
+    {
+      "titulo": "Guardians of the Galaxy",
+      "anio": 2014,
+      "director": "James Gunn",
+      "genero": ["Acción", "Aventura", "Comedia"],
+      "duracion_minutos": 121,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
+    },
+    {
+      "titulo": "Captain America: The Winter Soldier",
+      "anio": 2014,
+      "director": "Anthony Russo, Joe Russo",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 136,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg"
+    },
+    {
+      "titulo": "X-Men: Days of Future Past",
+      "anio": 2014,
+      "director": "Bryan Singer",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 132,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tYfijzolzgoMOtegh1Y7j2Enorg.jpg"
+    },
+    {
+      "titulo": "The Wolf of Wall Street",
+      "anio": 2013,
+      "director": "Martin Scorsese",
+      "genero": ["Comedia", "Crimen", "Drama"],
+      "duracion_minutos": 180,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+    },
+    {
+      "titulo": "12 Years a Slave",
+      "anio": 2013,
+      "director": "Steve McQueen",
+      "genero": ["Drama", "Historia"],
+      "duracion_minutos": 134,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xdANQijuNrJaw1HA61rDccME4Tm.jpg"
+    },
+    {
+      "titulo": "Gravity",
+      "anio": 2013,
+      "director": "Alfonso Cuarón",
+      "genero": ["Drama", "Ciencia ficción", "Thriller"],
+      "duracion_minutos": 91,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZ2nZw8D681aphje8NJi8EfbL1U.jpg"
+    },
+    {
+      "titulo": "Her",
+      "anio": 2013,
+      "director": "Spike Jonze",
+      "genero": ["Drama", "Romance", "Ciencia ficción"],
+      "duracion_minutos": 126,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg"
+    },
+    {
+      "titulo": "Rush",
+      "anio": 2013,
+      "director": "Ron Howard",
+      "genero": ["Acción", "Drama"],
+      "duracion_minutos": 123,
+      "calificacion": 8.1,
+      "portada": "https://resizing.flixster.com/CBaE8KF0CFlCaHupV1c3i47ldq0=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9872516_p_v8_bb.jpg"
+    },
+    {
+      "titulo": "Prisoners",
+      "anio": 2013,
+      "director": "Denis Villeneuve",
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "duracion_minutos": 153,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg"
+    },
+    {
+      "titulo": "The Hobbit: An Unexpected Journey",
+      "anio": 2012,
+      "director": "Peter Jackson",
+      "genero": ["Aventura", "Fantasía"],
+      "duracion_minutos": 169,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg"
+    },
+    {
+      "titulo": "Life of Pi",
+      "anio": 2012,
+      "director": "Ang Lee",
+      "genero": ["Aventura", "Drama"],
+      "duracion_minutos": 127,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iLgRu4hhSr6V1uManX6ukDriiSc.jpg"
+    },
+    {
+      "titulo": "Skyfall",
+      "anio": 2012,
+      "director": "Sam Mendes",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 143,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg"
+    },
+    {
+      "titulo": "Argo",
+      "anio": 2012,
+      "director": "Ben Affleck",
+      "genero": ["Drama", "Thriller"],
+      "duracion_minutos": 120,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg"
+    },
+    {
+      "titulo": "Silver Linings Playbook",
+      "anio": 2012,
+      "director": "David O. Russell",
+      "genero": ["Comedia", "Drama", "Romance"],
+      "duracion_minutos": 122,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg"
+    },
+    {
+      "titulo": "Zero Dark Thirty",
+      "anio": 2012,
+      "director": "Kathryn Bigelow",
+      "genero": ["Drama", "Thriller"],
+      "duracion_minutos": 157,
+      "calificacion": 7.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg"
+    },
+    {
+      "titulo": "Lincoln",
+      "anio": 2012,
+      "director": "Steven Spielberg",
+      "genero": ["Drama", "Historia"],
+      "duracion_minutos": 150,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5KeUqW6DpVtf8G9VMuI2l0XIPCo.jpg"
+    },
+    {
+      "titulo": "Les Misérables",
+      "anio": 2012,
+      "director": "Tom Hooper",
+      "genero": ["Drama", "Música", "Romance"],
+      "duracion_minutos": 158,
+      "calificacion": 7.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg"
+    },
+    {
+      "titulo": "The Hunger Games",
+      "anio": 2012,
+      "director": "Gary Ross",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 142,
+      "calificacion": 7.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"
+    },
+    {
+      "titulo": "Prometheus",
+      "anio": 2012,
+      "director": "Ridley Scott",
+      "genero": ["Aventura", "Misterio", "Ciencia ficción"],
+      "duracion_minutos": 124,
+      "calificacion": 7.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7nZCtHJyDLncBUarfM5h5mrppx.jpg"
+    },
+    {
+      "titulo": "Moonrise Kingdom",
+      "anio": 2012,
+      "director": "Wes Anderson",
+      "genero": ["Comedia", "Drama", "Romance"],
+      "duracion_minutos": 94,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4SXcbNl6CEF2t36icuzuBioj7K.jpg"
+    },
+    {
+      "titulo": "The Artist",
+      "anio": 2011,
+      "director": "Michel Hazanavicius",
+      "genero": ["Comedia", "Drama", "Romance"],
+      "duracion_minutos": 100,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z68py0ZqPgeacGPG54AGVRbNBS7.jpg"
+    },
+    {
+      "titulo": "Hugo",
+      "anio": 2011,
+      "director": "Martin Scorsese",
+      "genero": ["Aventura", "Drama", "Familia"],
+      "duracion_minutos": 126,
+      "calificacion": 7.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg"
+    },
+    {
+      "titulo": "The Help",
+      "anio": 2011,
+      "director": "Tate Taylor",
+      "genero": ["Drama"],
+      "duracion_minutos": 146,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg"
+    },
+    {
+      "titulo": "Midnight in Paris",
+      "anio": 2011,
+      "director": "Woody Allen",
+      "genero": ["Comedia", "Fantasía", "Romance"],
+      "duracion_minutos": 94,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4wBG5kbfagTQclETblPRRGihk0I.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Deathly Hallows: Part 2",
+      "anio": 2011,
+      "director": "David Yates",
+      "genero": ["Aventura", "Fantasía"],
+      "duracion_minutos": 130,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
+    },
+    {
+      "titulo": "The Tree of Life",
+      "anio": 2011,
+      "director": "Terrence Malick",
+      "genero": ["Drama", "Fantasía"],
+      "duracion_minutos": 139,
+      "calificacion": 6.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg"
+    },
+    {
+      "titulo": "War Horse",
+      "anio": 2011,
+      "director": "Steven Spielberg",
+      "genero": ["Drama", "Guerra"],
+      "duracion_minutos": 146,
+      "calificacion": 7.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aRHhvvngFPJFy5uAjo7GVr3PhL.jpg"
+    },
+    {
+      "titulo": "Moneyball",
+      "anio": 2011,
+      "director": "Bennett Miller",
+      "genero": ["Drama"],
+      "duracion_minutos": 133,
+      "calificacion": 7.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg"
+    },
+    {
+      "titulo": "The Descendants",
+      "anio": 2011,
+      "director": "Alexander Payne",
+      "genero": ["Comedia", "Drama"],
+      "duracion_minutos": 115,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cDq5UlOPYeKm39okALCEOsZPxk.jpg"
+    },
+    {
+      "titulo": "Drive",
+      "anio": 2011,
+      "director": "Nicolas Winding Refn",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 100,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/602vevIURmpDfzbnv5Ubi6wIkQm.jpg"
+    },
+    {
+      "titulo": "The King's Speech",
+      "anio": 2010,
+      "director": "Tom Hooper",
+      "genero": ["Drama", "Historia"],
+      "duracion_minutos": 118,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg"
+    },
+    {
+      "titulo": "Black Swan",
+      "anio": 2010,
+      "director": "Darren Aronofsky",
+      "genero": ["Drama", "Thriller"],
+      "duracion_minutos": 108,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/viWheBd44bouiLCHgNMvahLThqx.jpg"
+    },
+    {
+      "titulo": "The Social Network",
+      "anio": 2010,
+      "director": "David Fincher",
+      "genero": ["Drama"],
+      "duracion_minutos": 120,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+    },
+    {
+      "titulo": "Toy Story 3",
+      "anio": 2010,
+      "director": "Lee Unkrich",
+      "genero": ["Animación", "Aventura", "Comedia"],
+      "duracion_minutos": 103,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg"
+    },
+    {
+      "titulo": "Iron Man",
+      "anio": 2008,
+      "director": "Jon Favreau",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 126,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+    },
+    {
+      "titulo": "Iron Man 2",
+      "anio": 2010,
+      "director": "Jon Favreau",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 124,
+      "calificacion": 6.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg"
+    },
+    {
+      "titulo": "Thor",
+      "anio": 2011,
+      "director": "Kenneth Branagh",
+      "genero": ["Acción", "Aventura", "Fantasía"],
+      "duracion_minutos": 115,
+      "calificacion": 7.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
+    },
+    {
+      "titulo": "Captain America: The First Avenger",
+      "anio": 2011,
+      "director": "Joe Johnston",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 124,
+      "calificacion": 6.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
+    },
+    {
+      "titulo": "Iron Man 3",
+      "anio": 2013,
+      "director": "Shane Black",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 130,
+      "calificacion": 7.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg"
+    },
+    {
+      "titulo": "Thor: The Dark World",
+      "anio": 2013,
+      "director": "Alan Taylor",
+      "genero": ["Acción", "Aventura", "Fantasía"],
+      "duracion_minutos": 112,
+      "calificacion": 6.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg"
+    },
+    {
+      "titulo": "Captain America: The Winter Soldier",
+      "anio": 2014,
+      "director": "Anthony Russo, Joe Russo",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 136,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg"
+    },
+    {
+      "titulo": "Avengers: Age of Ultron",
+      "anio": 2015,
+      "director": "Joss Whedon",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 141,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg"
+    },
+    {
+      "titulo": "Ant-Man",
+      "anio": 2015,
+      "director": "Peyton Reed",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 117,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg"
+    },
+    {
+      "titulo": "The Good, the Bad and the Ugly",
+      "anio": 1966,
+      "director": "Sergio Leone",
+      "genero": ["Western"],
+      "duracion_minutos": 161,
+      "calificacion": 8.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg"
+    },
+    {
+      "titulo": "Seven Samurai",
+      "anio": 1954,
+      "director": "Akira Kurosawa",
+      "genero": ["Acción", "Drama"],
+      "duracion_minutos": 207,
+      "calificacion": 8.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg"
+    },
+    {
+      "titulo": "One Flew Over the Cuckoo's Nest",
+      "anio": 1975,
+      "director": "Milos Forman",
+      "genero": ["Drama"],
+      "duracion_minutos": 133,
+      "calificacion": 8.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg"
+    },
+    {
+      "titulo": "12 Angry Men",
+      "anio": 1957,
+      "director": "Sidney Lumet",
+      "genero": ["Drama"],
+      "duracion_minutos": 96,
+      "calificacion": 9.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg"
+    },
+    {
+      "titulo": "The Empire Strikes Back",
+      "anio": 1980,
+      "director": "Irvin Kershner",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 124,
+      "calificacion": 8.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
+    },
+    {
+      "titulo": "Raiders of the Lost Ark",
+      "anio": 1981,
+      "director": "Steven Spielberg",
+      "genero": ["Acción", "Aventura"],
+      "duracion_minutos": 115,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ceG9VzoRAVGwivFU403Wc3AHRys.jpg"
+    },
+    {
+      "titulo": "Apocalypse Now",
+      "anio": 1979,
+      "director": "Francis Ford Coppola",
+      "genero": ["Drama", "Guerra"],
+      "duracion_minutos": 147,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+    },
+    {
+      "titulo": "The Apartment",
+      "anio": 1960,
+      "director": "Billy Wilder",
+      "genero": ["Comedia", "Drama", "Romance"],
+      "duracion_minutos": 125,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg"
+    },
+    {
+      "titulo": "North by Northwest",
+      "anio": 1959,
+      "director": "Alfred Hitchcock",
+      "genero": ["Misterio", "Thriller"],
+      "duracion_minutos": 136,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg"
+    },
+    {
+      "titulo": "Lawrence of Arabia",
+      "anio": 1962,
+      "director": "David Lean",
+      "genero": ["Aventura", "Drama", "Historia"],
+      "duracion_minutos": 228,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Philosopher's Stone",
+      "anio": 2001,
+      "director": "Chris Columbus",
+      "genero": ["Aventura", "Familia", "Fantasía"],
+      "duracion_minutos": 152,
+      "calificacion": 7.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Chamber of Secrets",
+      "anio": 2002,
+      "director": "Chris Columbus",
+      "genero": ["Aventura", "Familia", "Fantasía"],
+      "duracion_minutos": 161,
+      "calificacion": 7.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Prisoner of Azkaban",
+      "anio": 2004,
+      "director": "Alfonso Cuarón",
+      "genero": ["Aventura", "Fantasía"],
+      "duracion_minutos": 142,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Goblet of Fire",
+      "anio": 2005,
+      "director": "Mike Newell",
+      "genero": ["Aventura", "Familia", "Fantasía"],
+      "duracion_minutos": 157,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Order of the Phoenix",
+      "anio": 2007,
+      "director": "David Yates",
+      "genero": ["Aventura", "Familia", "Fantasía"],
+      "duracion_minutos": 138,
+      "calificacion": 7.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Half-Blood Prince",
+      "anio": 2009,
+      "director": "David Yates",
+      "genero": ["Aventura", "Fantasía"],
+      "duracion_minutos": 153,
+      "calificacion": 7.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg"
+    },
+    {
+      "titulo": "Harry Potter and the Deathly Hallows: Part 1",
+      "anio": 2010,
+      "director": "David Yates",
+      "genero": ["Aventura", "Fantasía"],
+      "duracion_minutos": 146,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg"
+    },
+    {
+      "titulo": "Indiana Jones and the Temple of Doom",
+      "anio": 1984,
+      "director": "Steven Spielberg",
+      "genero": ["Acción", "Aventura"],
+      "duracion_minutos": 118,
+      "calificacion": 7.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg"
+    },
+    {
+      "titulo": "Indiana Jones and the Last Crusade",
+      "anio": 1989,
+      "director": "Steven Spielberg",
+      "genero": ["Acción", "Aventura"],
+      "duracion_minutos": 127,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg"
+    },
+    {
+      "titulo": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "anio": 2008,
+      "director": "Steven Spielberg",
+      "genero": ["Acción", "Aventura"],
+      "duracion_minutos": 122,
+      "calificacion": 6.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8x8WZwLtRSJXB4EzHCQofyJnpF5.jpg"
+    },
+    {
+      "titulo": "Indiana Jones and the Dial of Destiny",
+      "anio": 2023,
+      "director": "James Mangold",
+      "genero": ["Acción", "Aventura"],
+      "duracion_minutos": 154,
+      "calificacion": 6.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
+    },
+    {
+      "titulo": "Dr. No",
+      "anio": 1962,
+      "director": "Terence Young",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 110,
+      "calificacion": 7.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg"
+    },
+    {
+      "titulo": "From Russia with Love",
+      "anio": 1963,
+      "director": "Terence Young",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 115,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg"
+    },
+    {
+      "titulo": "Goldfinger",
+      "anio": 1964,
+      "director": "Guy Hamilton",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 110,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CD9eftOlBcutoXak5C7L24X1Y2.jpg"
+    },
+    {
+      "titulo": "Thunderball",
+      "anio": 1965,
+      "director": "Terence Young",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 130,
+      "calificacion": 6.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg"
+    },
+    {
+      "titulo": "You Only Live Twice",
+      "anio": 1967,
+      "director": "Lewis Gilbert",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 117,
+      "calificacion": 6.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg"
+    },
+    {
+      "titulo": "On Her Majesty's Secret Service",
+      "anio": 1969,
+      "director": "Peter R. Hunt",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 142,
+      "calificacion": 6.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg"
+    },
+    {
+      "titulo": "Diamonds Are Forever",
+      "anio": 1971,
+      "director": "Guy Hamilton",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 120,
+      "calificacion": 6.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uajiHcFX5sOhYB2tBuWkmizbtuU.jpg"
+    },
+    {
+      "titulo": "Live and Let Die",
+      "anio": 1973,
+      "director": "Guy Hamilton",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 121,
+      "calificacion": 6.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39qkrjqMZs6utwNmihVImC3ghas.jpg"
+    },
+    {
+      "titulo": "The Man with the Golden Gun",
+      "anio": 1974,
+      "director": "Guy Hamilton",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 125,
+      "calificacion": 6.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVkbKwGnBVNQ122GN5bCTMyPbWz.jpg"
+    },
+    {
+      "titulo": "The Spy Who Loved Me",
+      "anio": 1977,
+      "director": "Lewis Gilbert",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 125,
+      "calificacion": 7.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg"
+    },
+    {
+      "titulo": "Moonraker",
+      "anio": 1979,
+      "director": "Lewis Gilbert",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 126,
+      "calificacion": 6.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg"
+    },
+    {
+      "titulo": "For Your Eyes Only",
+      "anio": 1981,
+      "director": "John Glen",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 127,
+      "calificacion": 6.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rIbhuS2xBHDYWAriFxLABlK2LZV.jpg"
+    },
+    {
+      "titulo": "Octopussy",
+      "anio": 1983,
+      "director": "John Glen",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 131,
+      "calificacion": 6.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg"
+    },
+    {
+      "titulo": "A View to a Kill",
+      "anio": 1985,
+      "director": "John Glen",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 131,
+      "calificacion": 6.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arJF829RP9cYvh0NU70dC5TtXSa.jpg"
+    },
+    {
+      "titulo": "The Living Daylights",
+      "anio": 1987,
+      "director": "John Glen",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 130,
+      "calificacion": 6.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oRlmWX9hewpn2B44wawBjHd7dx.jpg"
+    },
+    {
+      "titulo": "Licence to Kill",
+      "anio": 1989,
+      "director": "John Glen",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 133,
+      "calificacion": 6.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8nzJve63EXA79HGAyidZwivZrQ2.jpg"
+    },
+    {
+      "titulo": "GoldenEye",
+      "anio": 1995,
+      "director": "Martin Campbell",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 130,
+      "calificacion": 7.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg"
+    },
+    {
+      "titulo": "Tomorrow Never Dies",
+      "anio": 1997,
+      "director": "Roger Spottiswoode",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 119,
+      "calificacion": 6.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gZm002w7q9yLOkltxT76TWGfdZX.jpg"
+    },
+    {
+      "titulo": "The World Is Not Enough",
+      "anio": 1999,
+      "director": "Michael Apted",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 128,
+      "calificacion": 6.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCb2msgoZPK01WIqry24M4xsM73.jpg"
+    },
+    {
+      "titulo": "Die Another Day",
+      "anio": 2002,
+      "director": "Lee Tamahori",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 133,
+      "calificacion": 6.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg"
+    },
+    {
+      "titulo": "Casino Royale",
+      "anio": 2006,
+      "director": "Martin Campbell",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 144,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg"
+    },
+    {
+      "titulo": "Quantum of Solace",
+      "anio": 2008,
+      "director": "Marc Forster",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 106,
+      "calificacion": 6.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg"
+    },
+    {
+      "titulo": "Spectre",
+      "anio": 2015,
+      "director": "Sam Mendes",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 148,
+      "calificacion": 6.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg"
+    },
+    {
+      "titulo": "No Time to Die",
+      "anio": 2021,
+      "director": "Cary Joji Fukunaga",
+      "genero": ["Acción", "Aventura", "Thriller"],
+      "duracion_minutos": 163,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"
+    },
+        {
+      "titulo": "Citizen Kane",
+      "anio": 1941,
+      "director": "Orson Welles",
+      "genero": ["Drama", "Misterio"],
+      "duracion_minutos": 119,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg"
+    },
+    {
+      "titulo": "Gone with the Wind",
+      "anio": 1939,
+      "director": "Victor Fleming",
+      "genero": ["Drama", "Romance", "Guerra"],
+      "duracion_minutos": 238,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg"
+    },
+    {
+      "titulo": "The Wizard of Oz",
+      "anio": 1939,
+      "director": "Victor Fleming",
+      "genero": ["Aventura", "Familia", "Fantasía"],
+      "duracion_minutos": 102,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg"
+    },
+    {
+      "titulo": "On the Waterfront",
+      "anio": 1954,
+      "director": "Elia Kazan",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 108,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg"
+    },
+    {
+      "titulo": "Singin' in the Rain",
+      "anio": 1952,
+      "director": "Stanley Donen, Gene Kelly",
+      "genero": ["Comedia", "Música", "Romance"],
+      "duracion_minutos": 103,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w03EiJVHP8Un77boQeE7hg9DVdU.jpg"
+    },
+    {
+      "titulo": "Roman Holiday",
+      "anio": 1953,
+      "director": "William Wyler",
+      "genero": ["Comedia", "Romance"],
+      "duracion_minutos": 118,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lI9dmz1RH20FAqltkGelY1v4BE.jpg"
+    },
+    {
+      "titulo": "Double Indemnity",
+      "anio": 1944,
+      "director": "Billy Wilder",
+      "genero": ["Crimen", "Drama", "Film-Noir"],
+      "duracion_minutos": 107,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg"
+    },
+    {
+      "titulo": "The Maltese Falcon",
+      "anio": 1941,
+      "director": "John Huston",
+      "genero": ["Film-Noir", "Misterio"],
+      "duracion_minutos": 100,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg"
+    },
+    {
+      "titulo": "The Bridge on the River Kwai",
+      "anio": 1957,
+      "director": "David Lean",
+      "genero": ["Aventura", "Drama", "Guerra"],
+      "duracion_minutos": 161,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg"
+    },
+    {
+      "titulo": "Some Like It Hot",
+      "anio": 1959,
+      "director": "Billy Wilder",
+      "genero": ["Comedia", "Crimen", "Romance"],
+      "duracion_minutos": 121,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg"
+    },
+    {
+      "titulo": "Dr. Strangelove",
+      "anio": 1964,
+      "director": "Stanley Kubrick",
+      "genero": ["Comedia", "Guerra"],
+      "duracion_minutos": 95,
+      "calificacion": 8.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg"
+    },
+    {
+      "titulo": "2001: A Space Odyssey",
+      "anio": 1968,
+      "director": "Stanley Kubrick",
+      "genero": ["Ciencia ficción", "Aventura"],
+      "duracion_minutos": 149,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg"
+    },
+    {
+      "titulo": "The Graduate",
+      "anio": 1967,
+      "director": "Mike Nichols",
+      "genero": ["Comedia", "Drama", "Romance"],
+      "duracion_minutos": 106,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg"
+    },
+    {
+      "titulo": "Bonnie and Clyde",
+      "anio": 1967,
+      "director": "Arthur Penn",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 111,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg"
+    },
+    {
+      "titulo": "Midnight Cowboy",
+      "anio": 1969,
+      "director": "John Schlesinger",
+      "genero": ["Drama"],
+      "duracion_minutos": 113,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg"
+    },
+    {
+      "titulo": "A Clockwork Orange",
+      "anio": 1971,
+      "director": "Stanley Kubrick",
+      "genero": ["Crimen", "Drama", "Ciencia ficción"],
+      "duracion_minutos": 136,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
+    },
+    {
+      "titulo": "Taxi Driver",
+      "anio": 1976,
+      "director": "Martin Scorsese",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 114,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+    },
+    {
+      "titulo": "Chinatown",
+      "anio": 1974,
+      "director": "Roman Polanski",
+      "genero": ["Drama", "Misterio", "Thriller"],
+      "duracion_minutos": 130,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg"
+    },
+    {
+      "titulo": "Rocky",
+      "anio": 1976,
+      "director": "John G. Avildsen",
+      "genero": ["Drama", "Deporte"],
+      "duracion_minutos": 120,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg"
+    },
+    {
+      "titulo": "Blade Runner",
+      "anio": 1982,
+      "director": "Ridley Scott",
+      "genero": ["Ciencia ficción", "Drama", "Thriller"],
+      "duracion_minutos": 117,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg"
+    },
+    {
+      "titulo": "E.T. the Extra-Terrestrial",
+      "anio": 1982,
+      "director": "Steven Spielberg",
+      "genero": ["Familia", "Ciencia ficción"],
+      "duracion_minutos": 115,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"
+    },
+    {
+      "titulo": "Terminator",
+      "anio": 1984,
+      "director": "James Cameron",
+      "genero": ["Acción", "Ciencia ficción"],
+      "duracion_minutos": 107,
+      "calificacion": 8.1,
+      "portada": "https://a.ltrbxd.com/resized/sm/upload/g2/2g/f0/6b/the-terminator-original-0-1000-0-1500-crop.jpg?v=677a47d94a"
+    },
+    {
+      "titulo": "Die Hard",
+      "anio": 1988,
+      "director": "John McTiernan",
+      "genero": ["Acción", "Thriller"],
+      "duracion_minutos": 132,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg"
+    },
+    {
+      "titulo": "Predator",
+      "anio": 1987,
+      "director": "John McTiernan",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "duracion_minutos": 107,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
+    },
+    {
+      "titulo": "The Thing",
+      "anio": 1982,
+      "director": "John Carpenter",
+      "genero": ["Horror", "Misterio", "Ciencia ficción"],
+      "duracion_minutos": 109,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzGY49kseSE9QAKk47uuDGwnSCu.jpg"
+    },
+    {
+      "titulo": "RoboCop",
+      "anio": 1987,
+      "director": "Paul Verhoeven",
+      "genero": ["Acción", "Ciencia ficción", "Thriller"],
+      "duracion_minutos": 102,
+      "calificacion": 7.6,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg"
+    },
+    {
+      "titulo": "The Karate Kid",
+      "anio": 1984,
+      "director": "John G. Avildsen",
+      "genero": ["Acción", "Drama", "Familia"],
+      "duracion_minutos": 126,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg"
+    },
+    {
+      "titulo": "The Breakfast Club",
+      "anio": 1985,
+      "director": "John Hughes",
+      "genero": ["Comedia", "Drama"],
+      "duracion_minutos": 97,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wM9ErA8UVdcce5P4oefQinN8VVV.jpg"
+    },
+    {
+      "titulo": "Ferris Bueller's Day Off",
+      "anio": 1986,
+      "director": "John Hughes",
+      "genero": ["Comedia"],
+      "duracion_minutos": 103,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg"
+    },
+    {
+      "titulo": "Ghostbusters",
+      "anio": 1984,
+      "director": "Ivan Reitman",
+      "genero": ["Acción", "Comedia", "Fantasía"],
+      "duracion_minutos": 105,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg"
+    },
+    {
+      "titulo": "Top Gun",
+      "anio": 1986,
+      "director": "Tony Scott",
+      "genero": ["Acción", "Drama"],
+      "duracion_minutos": 110,
+      "calificacion": 6.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg"
+    },
+    {
+      "titulo": "Full Metal Jacket",
+      "anio": 1987,
+      "director": "Stanley Kubrick",
+      "genero": ["Drama", "Guerra"],
+      "duracion_minutos": 116,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg"
+    },
+    {
+      "titulo": "Scarface",
+      "anio": 1983,
+      "director": "Brian De Palma",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 170,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg"
+    },
+    {
+      "titulo": "The Untouchables",
+      "anio": 1987,
+      "director": "Brian De Palma",
+      "genero": ["Crimen", "Drama", "Historia"],
+      "duracion_minutos": 119,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg"
+    },
+    {
+      "titulo": "Raging Bull",
+      "anio": 1980,
+      "director": "Martin Scorsese",
+      "genero": ["Biografía", "Drama", "Deporte"],
+      "duracion_minutos": 129,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg"
+    },
+    {
+      "titulo": "Platoon",
+      "anio": 1986,
+      "director": "Oliver Stone",
+      "genero": ["Drama", "Guerra"],
+      "duracion_minutos": 120,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg"
+    },
+    {
+      "titulo": "Casino",
+      "anio": 1995,
+      "director": "Martin Scorsese",
+      "genero": ["Crimen", "Drama"],
+      "duracion_minutos": 178,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg"
+    },
+    {
+      "titulo": "Braveheart",
+      "anio": 1995,
+      "director": "Mel Gibson",
+      "genero": ["Biografía", "Drama", "Historia"],
+      "duracion_minutos": 178,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or1gBugydmjToAEq7OZY0owwFk.jpg"
+    },
+    {
+      "titulo": "American Beauty",
+      "anio": 1999,
+      "director": "Sam Mendes",
+      "genero": ["Drama"],
+      "duracion_minutos": 122,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wby9315QzVKdW9BonAefg8jGTTb.jpg"
+    },
+    {
+      "titulo": "The Truman Show",
+      "anio": 1998,
+      "director": "Peter Weir",
+      "genero": ["Comedia", "Drama", "Ciencia ficción"],
+      "duracion_minutos": 103,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+    },
+    {
+      "titulo": "Heat",
+      "anio": 1995,
+      "director": "Michael Mann",
+      "genero": ["Acción", "Crimen", "Drama"],
+      "duracion_minutos": 170,
+      "calificacion": 8.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umSVjVdbVwtx5ryCA2QXL44Durm.jpg"
+    },
+    {
+      "titulo": "The Sixth Sense",
+      "anio": 1999,
+      "director": "M. Night Shyamalan",
+      "genero": ["Drama", "Misterio", "Thriller"],
+      "duracion_minutos": 107,
+      "calificacion": 8.2,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg"
+    },
+    {
+      "titulo": "The Goonies",
+      "anio": 1985,
+      "director": "Richard Donner",
+      "genero": ["Aventura", "Comedia", "Familia"],
+      "duracion_minutos": 114,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg"
+    },
+    {
+      "titulo": "Stand by Me",
+      "anio": 1986,
+      "director": "Rob Reiner",
+      "genero": ["Aventura", "Drama"],
+      "duracion_minutos": 89,
+      "calificacion": 8.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg"
+    },
+    {
+      "titulo": "Gremlins",
+      "anio": 1984,
+      "director": "Joe Dante",
+      "genero": ["Comedia", "Fantasía", "Horror"],
+      "duracion_minutos": 106,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg"
+    },
+    {
+      "titulo": "Beetlejuice",
+      "anio": 1988,
+      "director": "Tim Burton",
+      "genero": ["Comedia", "Fantasía"],
+      "duracion_minutos": 92,
+      "calificacion": 7.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg"
+    },
+    {
+      "titulo": "Who Framed Roger Rabbit",
+      "anio": 1988,
+      "director": "Robert Zemeckis",
+      "genero": ["Animación", "Aventura", "Comedia"],
+      "duracion_minutos": 104,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg"
+    },
+    {
+      "titulo": "Coming to America",
+      "anio": 1988,
+      "director": "John Landis",
+      "genero": ["Comedia", "Romance"],
+      "duracion_minutos": 117,
+      "calificacion": 7.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8YZiA1o264dk0cr1USyMdph6SZl.jpg"
+    },
+    {
+      "titulo": "Beverly Hills Cop",
+      "anio": 1984,
+      "director": "Martin Brest",
+      "genero": ["Acción", "Comedia", "Crimen"],
+      "duracion_minutos": 105,
+      "calificacion": 7.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg"
+    },
+    {
+      "titulo": "The Blues Brothers",
+      "anio": 1980,
+      "director": "John Landis",
+      "genero": ["Acción", "Comedia", "Música"],
+      "duracion_minutos": 133,
+      "calificacion": 7.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg"
+    },
+    {
+      "titulo": "Groundhog Day",
+      "anio": 1993,
+      "director": "Harold Ramis",
+      "genero": ["Comedia", "Fantasía", "Romance"],
+      "duracion_minutos": 101,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gCgt1WARPZaXnq523ySQEUKinCs.jpg"
+    },
+    {
+      "titulo": "Ghost",
+      "anio": 1990,
+      "director": "Jerry Zucker",
+      "genero": ["Drama", "Fantasía", "Romance"],
+      "duracion_minutos": 127,
+      "calificacion": 7.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9RaPHov8oM5cnzeE27isnFMsvS.jpg"
+    },
+    {
+      "titulo": "Dirty Dancing",
+      "anio": 1987,
+      "director": "Emile Ardolino",
+      "genero": ["Drama", "Música", "Romance"],
+      "duracion_minutos": 100,
+      "calificacion": 7.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg"
+    },
+    {
+      "titulo": "The Princess Bride",
+      "anio": 1987,
+      "director": "Rob Reiner",
+      "genero": ["Aventura", "Comedia", "Familia"],
+      "duracion_minutos": 98,
+      "calificacion": 8.0,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg"
+    },
+    {
+      "titulo": "When Harry Met Sally",
+      "anio": 1989,
+      "director": "Rob Reiner",
+      "genero": ["Comedia", "Drama", "Romance"],
+      "duracion_minutos": 95,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg"
+    },
+    {
+      "titulo": "Pretty Woman",
+      "anio": 1990,
+      "director": "Garry Marshall",
+      "genero": ["Comedia", "Romance"],
+      "duracion_minutos": 119,
+      "calificacion": 7.1,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVHUfT801LQATGd26VPzhorIYza.jpg"
+    },
+    {
+      "titulo": "Clueless",
+      "anio": 1995,
+      "director": "Amy Heckerling",
+      "genero": ["Comedia", "Romance"],
+      "duracion_minutos": 97,
+      "calificacion": 6.9,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2gYRjzWmgS2sNFlUfJBWXZyAOnw.jpg"
+    },
+    {
+      "titulo": "Halloween",
+      "anio": 1978,
+      "director": "John Carpenter",
+      "genero": ["Horror", "Thriller"],
+      "duracion_minutos": 91,
+      "calificacion": 7.7,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
+    },
+    {
+      "titulo": "Friday the 13th",
+      "anio": 1980,
+      "director": "Sean S. Cunningham",
+      "genero": ["Horror", "Misterio", "Thriller"],
+      "duracion_minutos": 95,
+      "calificacion": 6.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg"
+    },
+    {
+      "titulo": "A Nightmare on Elm Street",
+      "anio": 1984,
+      "director": "Wes Craven",
+      "genero": ["Horror"],
+      "duracion_minutos": 91,
+      "calificacion": 7.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/avHGIO93jgCZLf33ec2aahgZJX6.jpg"
+    },
+    {
+      "titulo": "The Texas Chain Saw Massacre",
+      "anio": 1974,
+      "director": "Tobe Hooper",
+      "genero": ["Horror"],
+      "duracion_minutos": 83,
+      "calificacion": 7.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg"
+    },
+    {
+      "titulo": "The Omen",
+      "anio": 1976,
+      "director": "Richard Donner",
+      "genero": ["Horror", "Misterio"],
+      "duracion_minutos": 111,
+      "calificacion": 7.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg"
+    },
+    {
+      "titulo": "Poltergeist",
+      "anio": 1982,
+      "director": "Tobe Hooper",
+      "genero": ["Horror", "Thriller"],
+      "duracion_minutos": 114,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m5AKo8iZAYulI87Uzxkn87vRY07.jpg"
+    },
+    {
+      "titulo": "Scream",
+      "anio": 1996,
+      "director": "Wes Craven",
+      "genero": ["Horror", "Misterio"],
+      "duracion_minutos": 111,
+      "calificacion": 7.4,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg"
+    },
+    {
+      "titulo": "Misery",
+      "anio": 1990,
+      "director": "Rob Reiner",
+      "genero": ["Drama", "Thriller"],
+      "duracion_minutos": 107,
+      "calificacion": 7.8,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg"
+    },
+    {
+      "titulo": "Cape Fear",
+      "anio": 1991,
+      "director": "Martin Scorsese",
+      "genero": ["Crimen", "Thriller"],
+      "duracion_minutos": 128,
+      "calificacion": 7.3,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg"
+    },
+    {
+      "titulo": "The Blair Witch Project",
+      "anio": 1999,
+      "director": "Daniel Myrick, Eduardo Sánchez",
+      "genero": ["Horror", "Misterio"],
+      "duracion_minutos": 81,
+      "calificacion": 6.5,
+      "portada": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9050VGrYjYrEjpOvDZVAngLbg1f.jpg"
+    }
+  ]
+}
